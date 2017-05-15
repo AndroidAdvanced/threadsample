@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagedownloadfailed.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\imagedownloadfailed.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\decodequeued.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\decodequeued.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagedownloading.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\imagedownloading.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagequeued.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\imagequeued.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\decodedecoding.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\decodedecoding.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagenotqueued.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\drawable\\imagenotqueued.xml"
+    }
+]

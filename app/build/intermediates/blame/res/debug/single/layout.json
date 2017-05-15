@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmenthost.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\layout\\fragmenthost.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\galleryitem.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\layout\\galleryitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridlist.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\layout\\gridlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "D:\\Android\\Scanner\\OpenNoteScanner-master\\threadsample\\app\\src\\main\\res\\layout\\photo.xml"
+    }
+]
